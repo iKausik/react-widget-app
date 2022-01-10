@@ -35,9 +35,9 @@ To run all the tests, use `npm test`
 
 ## Solutions
 
-**For the 1st Widget:** React's `useState` hook is used to build the counting functionality in the middle of the circle and the circulur progress bar around the circle when changing the slider at the bottom.
+**For the 1st Widget:** React `useState` hook is used to build the counting functionality in the middle of the circle and the circulur progress bar around the circle when changing the slider at the bottom.
 
-**For the 2nd Widget:** React's `useReducer` hook is being used to build the functionality of selecting the bar and changing the status text above according to the selection.
+**For the 2nd Widget:** React `useReducer` hook is being used to build the functionality of selecting the bar and changing the status text above according to the selection.
 _see the Opportunity for Improvement section below to know more about improvment options._
 
 For all styling purposes `material-ui` and `css` are being used.
