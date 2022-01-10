@@ -32,7 +32,7 @@ const WidgetOne = () => {
         <div className="progressBar">
           <ProgressBar
             strokeWidth="10"
-            size="210"
+            size="209.5"
             percentage={progress}
             data-testid="progress-bar"
           />
