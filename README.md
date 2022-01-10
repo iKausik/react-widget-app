@@ -55,7 +55,7 @@ see the comment in the `Bars_v2.js` file to know about it or try running it on y
 
 ## Contributions
 
-Contribute to the project if you have better ways to do things.
+Contribute to the project if you have better Solutions.
 
 Always open for improvements and discussion for better ways to do things.
 
