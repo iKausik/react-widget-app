@@ -38,6 +38,7 @@ To run all the tests, use `npm test`
 **For the 1st Widget:** React `useState` hook is used to build the counting functionality in the middle of the circle and the circulur progress bar around the circle when changing the slider at the bottom.
 
 **For the 2nd Widget:** React `useReducer` hook is being used to build the functionality of selecting the bar and changing the status text above according to the selection.
+
 _see the Opportunity for Improvement section below to know more about improvment options._
 
 For all styling purposes `material-ui` and `css` are being used.
@@ -46,6 +47,12 @@ For all styling purposes `material-ui` and `css` are being used.
 
 Although this **React Widget App** is fully functional according to the goals of the project. there are some areas that needs to be improved.
 
-1. The 2nd widget code is need to be refactored, there's some repeatated code that should be avoided.
+1. The 2nd widget's code is need to be refactored, there's some repeatated code that should be avoided.
 
-I've built a 2nd version for the 2nd widget as `Bars_v2.js` It's better version with more concise code than the currently running version.
+I've built a 2nd version for the 2nd widget as `Bars_v2.js` It's better version with more concise code than the currently running version. But the `Bars_v2.js` is not ready yet.
+
+see the comment in the `Bars_v2.js` file to know about it or try running it on your localhost.
+
+Contribute to the project if you have better ways to do things.
+
+If you've the done the contribution **Tweet me** [@kausik47](https://twitter.com/kausik47)
