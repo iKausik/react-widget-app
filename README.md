@@ -53,6 +53,12 @@ I've built a 2nd version for the 2nd widget as `Bars_v2.js` It's better version 
 
 see the comment in the `Bars_v2.js` file to know about it or try running it on your localhost.
 
+## Contributions
+
 Contribute to the project if you have better ways to do things.
 
-If you've the done the contribution **Tweet me** [@kausik47](https://twitter.com/kausik47)
+Always open for improvements and discussion for better ways to do things.
+
+## Contact
+
+If you've the done the contribution, or just want to say `Hi` **Tweet me** [@kausik47](https://twitter.com/kausik47)
