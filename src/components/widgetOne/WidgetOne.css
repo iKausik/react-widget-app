@@ -73,3 +73,27 @@
   stroke-linecap: round;
   stroke-linejoin: round;
 }
+
+/* Responsive */
+@media screen and (max-width: 560px) {
+  .card {
+    width: fit-content;
+    padding: 1em;
+    margin: 1em;
+  }
+
+  .circle1 {
+    width: 15em;
+    height: 15em;
+  }
+
+  .slider {
+    margin-top: 3em;
+  }
+
+  /* circulur progress bar svg */
+  #progressInput {
+    margin: 10px auto;
+    width: 30%;
+  }
+}
