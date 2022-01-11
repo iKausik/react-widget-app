@@ -49,7 +49,7 @@ Although this **React Widget App** is fully functional according to the goals of
 
 The 2nd widget's code is need to be refactored, there's some repeatated code that should be avoided.
 
-I've built a 2nd version for the 2nd widget as `Bars_v2.js` It's better version with more concise code than the currently running version. But the `Bars_v2.js` is not ready yet.
+I've built a 2nd version for the 2nd widget as `Bars_v2.js` It's a better version with more concise code than the currently running version. But the `Bars_v2.js` is not ready yet.
 
 see the comment in the `Bars_v2.js` file to know about it or try running it on your localhost.
 
