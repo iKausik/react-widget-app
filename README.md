@@ -61,4 +61,4 @@ Always open for improvements and discussion for better ways to do things.
 
 ## Contact
 
-If you've the done the contribution, or just want to say `Hi` **Tweet me** [@kausik47](https://twitter.com/kausik47)
+If you've done the contribution, or just want to say `Hi` **Tweet me** [@kausik47](https://twitter.com/kausik47)
